@@ -1,0 +1,14 @@
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\bin\Debug\net8.0\FilmAdatbazisConsoleFeladat.exe
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\bin\Debug\net8.0\FilmAdatbazisConsoleFeladat.deps.json
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\bin\Debug\net8.0\FilmAdatbazisConsoleFeladat.runtimeconfig.json
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\bin\Debug\net8.0\FilmAdatbazisConsoleFeladat.dll
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\bin\Debug\net8.0\FilmAdatbazisConsoleFeladat.pdb
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\FilmAdatbazisConsoleFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\FilmAdatbazisConsoleFeladat.AssemblyInfoInputs.cache
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\FilmAdatbazisConsoleFeladat.AssemblyInfo.cs
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\FilmAdatbazisConsoleFeladat.csproj.CoreCompileInputs.cache
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\FilmAdatbazisConsoleFeladat.dll
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\refint\FilmAdatbazisConsoleFeladat.dll
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\FilmAdatbazisConsoleFeladat.pdb
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\FilmAdatbazisConsoleFeladat.genruntimeconfig.cache
+C:\Users\agnes\Desktop\Vizsga\FilmAdatbazisConsoleFeladat\obj\Debug\net8.0\ref\FilmAdatbazisConsoleFeladat.dll
