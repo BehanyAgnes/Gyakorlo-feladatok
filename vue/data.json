@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Az alkimista",
+      "author": "Paulo Coelho",
+      "cover": "https://covers.openlibrary.org/b/isbn/0061122416-M.jpg",
+      "description": "Egy fiatal pásztorfiú spirituális utazása az álmai beteljesítéséhez – egy modern mese az élet értelméről."
+    },
+    {
+      "id": 2,
+      "title": "A Gyűrűk Ura",
+      "author": "J.R.R. Tolkien",
+      "cover": "https://covers.openlibrary.org/b/isbn/0618640150-M.jpg",
+      "description": "Egy epikus fantasy történet a Jó és a Gonosz harcáról Középfölde világában – legendás kaland és barátság története."
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "cover": "https://covers.openlibrary.org/b/isbn/0451524934-M.jpg",
+      "description": "Egy disztópikus regény a totális megfigyelés és elnyomás világáról – figyelmeztetés a jövő számára."
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter és a bölcsek köve",
+      "author": "J.K. Rowling",
+      "cover": "https://covers.openlibrary.org/b/isbn/0439554934-M.jpg",
+      "description": "Az ifjú varázslótanonc első évét követhetjük nyomon a Roxfort Boszorkány- és Varázslóképző Iskolában."
+    },
+    {
+      "id": 5,
+      "title": "A kis herceg",
+      "author": "Antoine de Saint-Exupéry",
+      "cover": "https://covers.openlibrary.org/b/isbn/0156012197-M.jpg",
+      "description": "Lírai mese a szeretetről, barátságról és az emberi kapcsolatok fontosságáról – felnőtteknek is szóló tanmese."
+    },
+    {
+      "id": 6,
+      "title": "A Da Vinci-kód",
+      "author": "Dan Brown",
+      "cover": "https://covers.openlibrary.org/b/isbn/0307474275-M.jpg",
+      "description": "Lélegzetelállító thriller, mely az egyház titkai körül bontakozik ki, történelmi utalásokkal átszőve."
+    },
+    {
+      "id": 7,
+      "title": "Büszkeség és balítélet",
+      "author": "Jane Austen",
+      "cover": "https://covers.openlibrary.org/b/isbn/0141439513-M.jpg",
+      "description": "Egy klasszikus romantikus történet előítéletről, társadalmi rangról és szerelemről a 19. századi Angliában."
+    },
+    {
+      "id": 8,
+      "title": "A három test problémája",
+      "author": "Cixin Liu",
+      "cover": "https://covers.openlibrary.org/b/isbn/0765382032-M.jpg",
+      "description": "Kínai sci-fi mestermű, amely egy idegen civilizációval való kapcsolatfelvétel lehetőségeit tárja fel."
+    }
+  ]
+}
