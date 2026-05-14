@@ -1,0 +1,60 @@
+﻿<Window x:Class="KeszletManager.TermekDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Termék" Height="340" Width="380"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Height"     Value="30"/>
+            <Setter Property="FontSize"   Value="13"/>
+            <Setter Property="Padding"    Value="5,4"/>
+            <Setter Property="BorderBrush" Value="#AAA"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontSize"  Value="13"/>
+            <Setter Property="Margin"    Value="0,6,0,2"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Height"    Value="34"/>
+            <Setter Property="Width"     Value="110"/>
+            <Setter Property="FontSize"  Value="13"/>
+            <Setter Property="Margin"    Value="6,0"/>
+            <Setter Property="Cursor"    Value="Hand"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Content="Termék neve:"/>
+        <TextBox Grid.Row="1" x:Name="NevMezo"/>
+
+        <Label Grid.Row="2" Content="Ár (Ft):"/>
+        <TextBox Grid.Row="3" x:Name="ArMezo"/>
+
+        <Label Grid.Row="4" Content="Mennyiség:"/>
+        <TextBox Grid.Row="5" x:Name="MennyisegMezo"/>
+
+        <StackPanel Grid.Row="7"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    Margin="0,12,0,0">
+            <Button Content="💾 Mentés"
+                    Background="#4CAF50" Foreground="White"
+                    Click="Mentes_Click"/>
+            <Button Content="Mégse"
+                    Click="Megse_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
